@@ -1,8 +1,12 @@
 {
   "name": "@cs50x-iran/ckeditor5-build-cs50x-iran",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hesamr76/ckeditor-build-cs50x-iran"
+  },
   "author": "hesamr76@gmail.com",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "SEE LICENSE IN LICENSE.md",
   "private": false,
   "keywords": [
