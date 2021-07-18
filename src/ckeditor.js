@@ -122,6 +122,11 @@ Editor.defaultConfig = {
       "redo",
     ],
   },
+
+  language: {
+    ui: "en",
+    content: "fa",
+  },
 };
 
 export default Editor;
